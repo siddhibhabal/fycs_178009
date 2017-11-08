@@ -1,2 +1,2 @@
 # fycs_178009
-this is a new program
+this is my first fycs practical
